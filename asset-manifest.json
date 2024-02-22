@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Tanmay-Borde/portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/Tanmay-Borde/portfolio/static/js/main.191b4640.js",
-    "static/js/453.1407b060.chunk.js": "/Tanmay-Borde/portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/Veritas.svg": "/Tanmay-Borde/portfolio/static/media/Veritas.14eefa69134578791f3276c01d74b7db.svg",
-    "index.html": "/Tanmay-Borde/portfolio/index.html",
-    "main.f855e6bc.css.map": "/Tanmay-Borde/portfolio/static/css/main.f855e6bc.css.map",
-    "main.191b4640.js.map": "/Tanmay-Borde/portfolio/static/js/main.191b4640.js.map",
-    "453.1407b060.chunk.js.map": "/Tanmay-Borde/portfolio/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/portfolio/static/js/main.69301ecd.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Veritas.svg": "/portfolio/static/media/Veritas.14eefa69134578791f3276c01d74b7db.svg",
+    "index.html": "/portfolio/index.html",
+    "main.f855e6bc.css.map": "/portfolio/static/css/main.f855e6bc.css.map",
+    "main.69301ecd.js.map": "/portfolio/static/js/main.69301ecd.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.191b4640.js"
+    "static/js/main.69301ecd.js"
   ]
 }
